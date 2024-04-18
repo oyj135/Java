@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Start.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/goods/AddGoodsFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mysql/Dbutil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/user/AdminFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/utiles/LoginConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/BuyDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/FirstLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/Login.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
